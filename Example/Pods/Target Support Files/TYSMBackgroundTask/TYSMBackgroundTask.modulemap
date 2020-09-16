@@ -1,0 +1,6 @@
+framework module TYSMBackgroundTask {
+  umbrella header "TYSMBackgroundTask-umbrella.h"
+
+  export *
+  module * { export * }
+}

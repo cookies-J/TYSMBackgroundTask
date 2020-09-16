@@ -1,0 +1,16 @@
+PODS:
+  - TYSMBackgroundTask (0.1.0)
+
+DEPENDENCIES:
+  - TYSMBackgroundTask (from `../`)
+
+EXTERNAL SOURCES:
+  TYSMBackgroundTask:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TYSMBackgroundTask: f7421d73a33d4db9a13f2fd47d20ae9d8e6d7682
+
+PODFILE CHECKSUM: cbcf314e3887312edf17531eb2128b027d58f443
+
+COCOAPODS: 1.9.3
